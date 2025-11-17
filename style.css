@@ -101,6 +101,9 @@ body {
   border-radius: 12px;
   z-index: 999;
 }
+.rotate-message video {
+  opacity: 0.5;
+}
 
 /* Mobile portrait : cacher le livre, afficher le message */
 @media (max-width: 1024px) {
